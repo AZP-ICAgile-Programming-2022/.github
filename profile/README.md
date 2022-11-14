@@ -1,3 +1,1 @@
-Hey there!
-
-Welcome to ICAgile Programmming
+# Welcome to ICAgile Programmming
